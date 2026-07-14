@@ -9,7 +9,36 @@
 /bin
 /obj
 /out
+/Objects/
+/Listings/
+/DebugConfig/
+
+# Keil build artifacts
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.bin
+*.map
+*.lnp
+*.htm
+*.dep
+*.lst
+*.sct.bak
+*.uvguix.*
+*.uvoptx.bak
+*.bak
+*.plg
+*.tra
+*.iex
+*.dbgconf
 
 # eide template
 *.ept
 *.eide-template
+
+# OS / editor
+Thumbs.db
+Desktop.ini
+.DS_Store
